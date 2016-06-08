@@ -1,0 +1,16 @@
+{
+  "name": "ng-autocomplete-address",
+  "version": "1.0.0",
+  "description": "Apply Angular Material Autocomplete with Address checking using Google Maps Api",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caioverissimo/ng-autocomplete-address.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caioverissimo/ng-autocomplete-address/issues"
+  },
+  "homepage": "https://github.com/caioverissimo/ng-autocomplete-address#readme"
+}
