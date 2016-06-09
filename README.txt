@@ -19,5 +19,10 @@ Refereces:
 			title: "Angularmaterial - Demos Autocomplete",
 			url: "https://material.angularjs.org/latest/demo/autocomplete",
 			tags: ["AngularJS", "Component", "Autocomplete", "Plugin", "Autosuggest"]
+		},
+		{
+			title: "ng-Autocomplete",
+			url: "http://plnkr.co/edit/il2J8qOI2Dr7Ik1KHRm8?p=preview",
+			tags: ["AngularJS", "Component", "Autocomplete", "Plugin", "Autosuggest", "Google API", "Maps API", "Address"]
 		}
 	}
