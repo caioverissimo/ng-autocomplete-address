@@ -9,6 +9,8 @@ After this step, one attempt to implement a plunker example, without "Angular Ma
 For a while, I prefer the second approach. Now I gonna try to modify the initial behavior for complete multiple form fields.
 [/ng-modules-autocomplete-modified]
 
+An attempt to trigger the autocomplete using the address fields instead use a search one.
+
 
 ## Dependencies and Tools
 
