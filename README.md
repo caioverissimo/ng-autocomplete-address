@@ -1,6 +1,13 @@
 # Ng-autocomplete-address
 
-Apply Angular Material Autocomplete with Address checking using Google Maps Api
+Initially, apply Angular Material Autocomplete with Address checking using Google Maps Api.
+[/ng-material-autocomplete]
+
+After this step, one attempt to implement a plunker example, without "Angular Material", using just a simple integration between the 'ngAutocomplete' with the 'maps' API from Google.
+[/ng-modules-autocomplete]
+
+For a while, I prefer the second approach. Now I gonna try to modify the initial behavior for complete multiple form fields.
+[/ng-modules-autocomplete-modified]
 
 
 ## Dependencies and Tools
